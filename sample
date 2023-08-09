@@ -1,4 +1,9 @@
 hello 
 this is sample file
 for git
+<<<<<<< HEAD
 for new update
+=======
+for adding feature branch
+new
+>>>>>>> feature
